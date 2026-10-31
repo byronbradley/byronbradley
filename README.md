@@ -1,14 +1,14 @@
 # Byron Bradley
 
-I study electrical engineering at the University at Buffalo and graduate in May 2028. Most of my projects involve electronics, embedded programming, or Python. I also repair and resell electronics.
+I'm an electrical engineering student at the University at Buffalo, graduating in May 2028. I'm interested in embedded systems and hardware testing, and I repair and resell electronics outside school.
 
-A few things I’ve worked on:
-- An IEEE robot project using an Arduino Nano 33 BLE, ultrasonic sensors, and a motor driver.
-- Reading barcodes from drone footage with Python and OpenCV.
-- Python scripts for lab measurements and testing.
+Two projects I'm working on:
 
-Right now, I’m helping the Dutchess County Historical Society move metadata from an old platform to an internet archive.
+- [Maze robot](https://github.com/byronbradley/maze-robot): Python maze exploration and Arduino firmware for an IEEE project at UB. The [browser replay](https://byronbradley.github.io/maze-robot/) shows a simulated run. Hardware assembly and testing are next.
+- [Inventory camera](https://github.com/byronbradley/inventory-camera): a Python barcode-reading prototype using OpenCV and ZXing-C++. It has generated-label tests, retry logic, and CSV logging. The Pi camera build and physical trials are planned.
 
-I use Python, C, C++, Java, KiCad, and LTspice, with some Git and Linux experience. I’m looking for a summer 2027 internship in hardware, embedded systems, or testing.
+I'm also helping the Dutchess County Historical Society move metadata from an old platform to an internet archive.
 
-[LinkedIn](https://www.linkedin.com/in/byron-bradley-397559447/)
+I use Python, C/C++, KiCad, and LTspice, with some Git and Linux experience. I'm looking for a summer 2027 internship in hardware, embedded systems, or testing.
+
+[LinkedIn](https://www.linkedin.com/in/byronpbradley/)
