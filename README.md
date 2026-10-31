@@ -1,24 +1,14 @@
 # Byron Bradley
 
-Electrical engineering student at the **University at Buffalo**, graduating in **May 2028**. I enjoy figuring out why hardware is not working, testing an idea at the bench, and writing code that helps me understand the results.
+I study electrical engineering at the University at Buffalo and graduate in May 2028. Most of my projects involve electronics, embedded programming, or Python. I also repair and resell electronics.
 
-I am interested in **embedded systems, hardware testing, and controls**, and I am looking for a **Summer 2027 engineering internship**.
+A few things I’ve worked on:
+- An IEEE robot project using an Arduino Nano 33 BLE, ultrasonic sensors, and a motor driver.
+- Reading barcodes from drone footage with Python and OpenCV.
+- Python scripts for lab measurements and testing.
 
-## What I work on
+Right now, I’m helping the Dutchess County Historical Society move metadata from an old platform to an internet archive.
 
-- **Embedded robotics:** Contributing to an IEEE robot project using an Arduino Nano 33 BLE, ultrasonic sensors, and a DRV8833 motor driver.
-- **Computer vision:** A Python/OpenCV drone project for reading barcodes under different viewing angles and lighting conditions.
-- **Test and measurement:** Using Python for lab measurements and repeated tests, alongside oscilloscopes, multimeters, and function generators.
-- **Electronics repair:** Troubleshooting and repairing electronics through my repair and resale work.
+I use Python, C, C++, Java, KiCad, and LTspice, with some Git and Linux experience. I’m looking for a summer 2027 internship in hardware, embedded systems, or testing.
 
-## Tools I use
-
-**Programming:** Python, C, C++, Java  
-**Hardware and simulation:** KiCad, LTspice, Arduino  
-**Development:** Git and Linux
-
-## Currently
-
-I am using Python to help the Dutchess County Historical Society move metadata from an obsolete platform to an internet archive. I also keep building my experience with embedded programming and practical circuit debugging.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/byron-bradley-397559447/)
+[LinkedIn](https://www.linkedin.com/in/byron-bradley-397559447/)
