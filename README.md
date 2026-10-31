@@ -26,8 +26,12 @@ A barcode-reading prototype using OpenCV and ZXing-C++, with scale retries, repe
 
 [Recognition experiments](https://github.com/byronbradley/inventory-camera/blob/main/docs/recognition-results.md) · [Pi setup](https://github.com/byronbradley/inventory-camera/blob/main/docs/pi-setup.md)
 
-## Tools and other work
+## Tools
 
 I use **Python, C/C++, KiCad, and LTspice**, with some Git and Linux experience. My repair work uses soldering and hot-air equipment, a multimeter, and an adjustable DC supply.
 
-I also help the **Dutchess County Historical Society** move metadata from an old platform to an internet archive.
+## Upcoming project
+
+**Dutchess County Historical Society · Metadata migration**
+
+I plan to help move metadata from an old platform to an internet archive.
