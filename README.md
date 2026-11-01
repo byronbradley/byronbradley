@@ -1,37 +1,31 @@
 # Byron Bradley
 
-**Electrical engineering · University at Buffalo · B.S. expected May 2028**
+I'm an electrical engineering student at the University at Buffalo, expecting to graduate in May 2028. I'm looking for a Summer 2027 internship in hardware, embedded systems, or test engineering.
 
-I run [Bytronyx](https://github.com/byronbradley/bytronyx), my electronics repair and resale business, and work on embedded programming and Python projects.
+Most of my hands-on experience comes from repairing game consoles and controllers. At UB, I'm working on the software for an IEEE maze robot.
 
-I'm looking for a **Summer 2027 internship in hardware, embedded systems, or test engineering**. [Connect on LinkedIn](https://www.linkedin.com/in/byronpbradley/).
+[LinkedIn](https://www.linkedin.com/in/byronpbradley/)
 
-## Selected work
+## [Electronics repair: Bytronyx](https://github.com/byronbradley/bytronyx)
 
-### [Bytronyx](https://github.com/byronbradley/bytronyx) · Electronics repair and resale
+I bought, repaired, and resold consoles and controllers through Bytronyx. The log covers 248 items, including 221 repairs, with notes on the faults, checks, work done, and testing.
 
-I diagnose faults, replace components, and test consoles and controllers for resale. My repair log contains **248 entries, including 221 repaired items**, with troubleshooting notes, parts, testing, and costs.
+Two examples: an [Xbox 360 with a shorted MOSFET](https://github.com/byronbradley/bytronyx/blob/main/repairs/records/EX-136.md) and a [PS3 with disc-loading and USB faults](https://github.com/byronbradley/bytronyx/blob/main/repairs/records/EX-092.md).
 
-[Repair log](https://github.com/byronbradley/bytronyx/blob/main/repairs/README.md) · [Xbox 360 power fault](https://github.com/byronbradley/bytronyx/blob/main/repairs/records/EX-136.md) · [PS3 disc drive and USB repair](https://github.com/byronbradley/bytronyx/blob/main/repairs/records/EX-092.md) · [Photos](https://github.com/byronbradley/bytronyx/blob/main/docs/photo-gallery.md)
+[Repair log](https://github.com/byronbradley/bytronyx/blob/main/repairs/README.md) · [Bench and stock photos](https://github.com/byronbradley/bytronyx/blob/main/docs/behind-bytronyx.md)
 
-### [Maze robot](https://github.com/byronbradley/maze-robot) · Embedded programming
+## [Maze robot](https://github.com/byronbradley/maze-robot)
 
-I wrote the Python maze simulator and Arduino Nano 33 BLE firmware for an IEEE project at UB. The project includes flood-fill navigation, controller experiments, automated tests, and a browser replay. Hardware assembly, soldering, calibration, and physical testing are next.
+My part of this IEEE project is the Python simulator and C++ firmware for an Arduino Nano 33 BLE Sense Rev2. The planner builds a map from wall readings and uses flood-fill to choose its next move. The simulation runs and the firmware compiles; assembly and calibration are still ahead.
 
-[Simulation replay](https://byronbradley.github.io/maze-robot/) · [Firmware](https://github.com/byronbradley/maze-robot/blob/main/firmware/README.md) · [Design decisions](https://github.com/byronbradley/maze-robot/blob/main/docs/design-decisions.md)
+[Simulation replay](https://byronbradley.github.io/maze-robot/) · [Firmware](https://github.com/byronbradley/maze-robot/blob/main/firmware/README.md) · [Design notes](https://github.com/byronbradley/maze-robot/blob/main/docs/design-decisions.md)
 
-### [Inventory camera](https://github.com/byronbradley/inventory-camera) · Python and computer vision
+## [Inventory camera](https://github.com/byronbradley/inventory-camera)
 
-A barcode-reading prototype using OpenCV and ZXing-C++, with scale retries, repeated-read suppression, and CSV logging. Tests use generated labels and mocked camera interfaces; the Pi camera build and physical trials are planned.
+A Python tool that reads inventory barcodes and logs them to CSV. It uses OpenCV and ZXing-C++; my code handles retries, camera capture, and repeated readings. Testing so far uses generated labels and mocked cameras. Raspberry Pi camera trials are next.
 
-[Recognition experiments](https://github.com/byronbradley/inventory-camera/blob/main/docs/recognition-results.md) · [Pi setup](https://github.com/byronbradley/inventory-camera/blob/main/docs/pi-setup.md)
+[Barcode experiments](https://github.com/byronbradley/inventory-camera/blob/main/docs/recognition-results.md) · [Pi setup](https://github.com/byronbradley/inventory-camera/blob/main/docs/pi-setup.md)
 
-## Tools
+## [Archive migration proposal](https://github.com/byronbradley/rhinebeck-archive-migration)
 
-I use **Python, C/C++, KiCad, and LTspice**, with some Git and Linux experience. My repair work uses soldering and hot-air equipment, a multimeter, and an adjustable DC supply.
-
-## Upcoming project
-
-**Dutchess County Historical Society · Metadata migration**
-
-I plan to help move metadata from an old platform to an internet archive.
+I proposed transferring the Rhinebeck Historical Society's catalog and available scans to Internet Archive. The proposal is awaiting review at the November 2026 board meeting; migration has not started.
