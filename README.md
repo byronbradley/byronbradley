@@ -4,7 +4,7 @@ I'm an electrical engineering student at the University at Buffalo, expecting to
 
 Most of my hands-on experience comes from repairing game consoles and controllers. At UB, I'm working on the software for an IEEE maze robot.
 
-[LinkedIn](https://www.linkedin.com/in/byronpbradley/)
+[Portfolio](https://byronbradley.me/) · [LinkedIn](https://www.linkedin.com/in/byronpbradley/)
 
 ## [Electronics repair: Bytronyx](https://github.com/byronbradley/bytronyx)
 
